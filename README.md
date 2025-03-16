@@ -17,9 +17,6 @@ wallpapers/
 │── 5K/
 │── 4K/
 │── 2K/
-
-
-
 ```
 
 - **720p, 1080p, 2K, 4K, 8K/**: Carpetas organizadas por resolución.
