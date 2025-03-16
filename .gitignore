@@ -1,0 +1,31 @@
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore environment variables
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# Imágenes que puedan contener derechos de autor (generalmente de anime o series famosas)
+thumb-1920-911588-850717466.jpg
+231268.jpg
+1021507.jpg
+1084886.jpg
